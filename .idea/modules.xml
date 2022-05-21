@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" filepath="$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c0nditional/c0nditional.iml" filepath="$PROJECT_DIR$/c0nditional/c0nditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-batch-8AM/core-java-batch-8AM.iml" filepath="$PROJECT_DIR$/core-java-batch-8AM/core-java-batch-8AM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctrshvgh/ctrshvgh.iml" filepath="$PROJECT_DIR$/ctrshvgh/ctrshvgh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/darklord/darklord.iml" filepath="$PROJECT_DIR$/darklord/darklord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/darkness/darkness.iml" filepath="$PROJECT_DIR$/darkness/darkness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/india/india.iml" filepath="$PROJECT_DIR$/india/india.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instagraam/instagraam.iml" filepath="$PROJECT_DIR$/instagraam/instagraam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radhe/radhe.iml" filepath="$PROJECT_DIR$/radhe/radhe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/space/space.iml" filepath="$PROJECT_DIR$/space/space.iml" />
+    </modules>
+  </component>
+</project>
